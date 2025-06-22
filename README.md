@@ -30,7 +30,7 @@ A modern, responsive web application for tracking and splitting apartment expens
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/apartment-expense-tracker.git
+   git clone https://github.com/sarkarjoy86/Apartment-Expense-Tracker.git
    cd apartment-expense-tracker
    ```
 
